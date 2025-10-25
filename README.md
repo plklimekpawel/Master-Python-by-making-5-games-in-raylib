@@ -1,6 +1,6 @@
 # Master Python by Making 5 Games: The New Ultimate Introduction to Pygame (Remade in Raylib)
 
-This repository contains 4 out of 5 games from this tutorial: [YouTube Tutorial](https://youtu.be/8OMghdHP-zs), **remade using Raylib with Python bindings**. Remade for only learning purpose. I didn't bother with audio.
+This repository contains 4 out of 5 games from this tutorial: [YouTube Tutorial](https://youtu.be/8OMghdHP-zs), **remade using Raylib with Python bindings**. Remade only for learning purpose. I didn't bother with audio.
 
 ---
 ## How to Run any of the games
