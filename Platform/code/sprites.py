@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from math import sin
-from Platform.code.timer import Timer
+from timer import Timer
 from settings import *
 
 @dataclass

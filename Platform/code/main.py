@@ -1,4 +1,4 @@
-from Platform.code.timer import Timer
+from timer import Timer
 from settings import *
 from pytmx import TiledMap
 from sprites import Tile, Player, Bee, Worm, Bullet, Fire
