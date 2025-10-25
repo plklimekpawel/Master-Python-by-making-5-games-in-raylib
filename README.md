@@ -15,6 +15,7 @@ python main.py
 **Controls:**
 - `Arrow Keys` — Move
 - `Space` — Shoot
+- `F1` — Debug
 
 <img src="Showcase/SpaceShooter.png" width="600" alt="Space Shooter">
 
@@ -23,6 +24,7 @@ python main.py
 **Controls:**
 - `Arrow Keys` — Move
 - `Left Mouse Button` — Shoot
+- `F1` — Debug
 
 <img src="Showcase/VampireSurvivor.png" width="600" alt="Vampire Survivor">
 
@@ -37,5 +39,6 @@ python main.py
 **Controls:**
 - `Arrow Keys` — Move
 - `S` — Shoot
+- `F1` — Debug
 
 <img src="Showcase/Platformer.png" width="600" alt="Platformer">
