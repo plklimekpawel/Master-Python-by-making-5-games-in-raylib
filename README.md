@@ -1,11 +1,41 @@
-# Master-Python-by-making-5-games-the-new-ultimate-introduction-to-pygame-made-in-raylib
-Remade 4 out of 5 games from this tutorial: https://youtu.be/8OMghdHP-zs but in raylib with python language bindings
+# Master Python by Making 5 Games: The New Ultimate Introduction to Pygame (Remade in Raylib)
 
-Space Shooter:
-How to run:
-  just run file main.py in any IDE that can run python
-Controls:
-  Arrow keys - movement
-  Space - shot
-![SpaceShooter](Showcase/SpaceShooter.png)
+This repository contains 4 out of 5 games from this tutorial: [YouTube Tutorial](https://youtu.be/8OMghdHP-zs), **remade using Raylib with Python bindings**. I remade them to improve my understanding of raylib.
 
+---
+## How to Run any of the games
+
+Simply run `main.py` in any Python-compatible IDE or in your terminal:
+```bash
+python main.py
+```
+
+## Space Shooter
+
+**Controls:**
+- `Arrow Keys` — Move
+- `Space` — Shoot
+
+<img src="Showcase/SpaceShooter.png" width="600" alt="Space Shooter">
+
+## Vampire Survivor
+
+**Controls:**
+- `Arrow Keys` — Move
+- `Left Mouse Button` — Shoot
+
+<img src="Showcase/VampireSurvivor.png" width="600" alt="Vampire Survivor">
+
+## Pong
+
+**Controls:**
+- `Up and Down` — Move
+<img src="Showcase/Pong.png" width="600" alt="Pong">
+
+## Platformer
+
+**Controls:**
+- `Arrow Keys` — Move
+- `S` — Shoot
+
+<img src="Showcase/Platformer.png" width="600" alt="Platformer">
